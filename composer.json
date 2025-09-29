@@ -1,0 +1,17 @@
+{
+    "name": "myfurniture/pembayaran",
+    "autoload": {
+        "psr-4": {
+            "Myfurniture\\Pembayaran\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shanti Putri",
+            "email": "santiputri2239@gmail.com"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "^8.2"
+    }
+}
